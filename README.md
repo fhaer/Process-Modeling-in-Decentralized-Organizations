@@ -1,6 +1,6 @@
-# Decentralized Process Modeling and Instance Tracking
+# Process Modeling in Decentralized Organizations
 
-Prototype for demonstrating a decentralized process modeling approach where the integrity of process models is secured by the Ethereum blockchain and versions of process models are managed through the Git DVCS.
+Prototype for process modeling in decentralized organizations. A first version for process modeling and instance tracking is extended in the current version of this prototype. In addition to securing the integrity of models on the Ethereum blockchain and model versioning through the Git DVCS, the modeling of organizations with decentralized agreement is implemented.
 
 Please note that is an alpha version for demonstration purposes.
 
