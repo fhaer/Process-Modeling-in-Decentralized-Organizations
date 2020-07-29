@@ -27,8 +27,10 @@ The current version of the prototype requires the following software:
 - A Git repository for loading and saving models accessible over https.
 
 
-The first version of the prototype includes Java and the Ethereum node software geth. Note that this version is only available for Windows. It requires:
+The first version of the prototype includes Java and the Ethereum node software geth. Note that this version is only available for Windows. If Java SE 9 and JavaFX are not installed on the system, the included jre.zip must be extracted within the directory of the prototype.
+It requires:
 
+- Java SE 9 with JavaFX.
 - A Git repository for loading and saving models accessible over https.
 
 
