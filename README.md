@@ -16,7 +16,7 @@ This repository contains two versions of the software:
  Härer, Felix (2019): Integrierte Entwicklung und Ausführung von Prozessen in dezentralen Organisationen. Ein Vorschlag auf Basis der Blockchain, Dissertation, University of Bamberg Press, Germany. DOI: 10.20378/irbo-55721.
  
 
-- Prototype_v1 is the first version developed in 2018 as a proof-of-concept for:
+- Prototype_v1 is the first version developed in 2018 as a proof-of-concept for:<br>
  Härer, Felix (2018): Decentralized Process Modeling and Instance Tracking Secured By a Blockchain. In: Proceedings of the 26th European Conference on Information Systems (ECIS). Portsmouth, UK, June 23-28, 2018. https://aisel.aisnet.org/ecis2018_rp/55/.
 
 
